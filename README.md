@@ -1,8 +1,7 @@
 - @whycardboard
-- i’m interested in pain and suffering
 - i’m currently learning about how game engines are really buggy
-- i’m looking to collaborate on nothing at all
-- please never contact me i am scared of human emotion
+- currently trying to find spare time to work on a project
+- learning react so i can finally break up with jquery
 
 <!---
 whycardboard/whycardboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
