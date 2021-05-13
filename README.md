@@ -1,4 +1,3 @@
-- @whycardboard
 - i’m currently learning about how game engines are really buggy
 - currently trying to find spare time to work on a project
 - learning react so i can finally break up with jquery
